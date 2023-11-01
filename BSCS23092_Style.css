@@ -1,0 +1,68 @@
+nav a{
+    margin: 15x;
+    text-decoration: none;
+    padding:1%;
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+}
+nav{
+    width: 100%;
+    text-align: center;
+    padding: 1%;
+    background-color: #71cfd2
+}
+img{
+    border-radius: 50%;
+    margin: 1%;
+    height: 250px;
+    width: 250px;
+}
+body{
+    background-image: url("Desktop\bscs23092");
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgb(216, 223, 221), rgb(77, 157, 170), rgb(0, 26, 255));
+    background-size: cover;
+}
+p {
+    font-size: 15px;
+    color:rgb(11, 11, 11);
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+style
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        size: 10px;
+    }           
+    li {
+        display: inline;
+        border-right: 1px solid rgb(0, 0, 0);
+        size: 10px;
+    }
+
+
+a:active{
+    color: rgb(74, 92, 111);
+    }
+
+a:hover{
+    background-color: rgb(74, 92, 111);
+}
+
+a:focus{
+    color:rgb(0, 255, 234);
+}
+.navbar li{
+ display:inline;
+ margin-right: 0px;
+}
+
+.div{
+
+    color: rgb(38, 83, 123);
+    padding: 20px; 
+    margin-top: 50px;
+
+}
